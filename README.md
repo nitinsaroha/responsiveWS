@@ -1,1 +1,0 @@
-A simple responsive static Web Page
